@@ -70,12 +70,6 @@ I am a **Master's student in Computer Science at Seattle University (2024-2026)*
 
 ---
 
-## 📈 GitHub Stats
-
-![Bhavik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavik168&show_icons=true&theme=radical)
-
----
-
 ## 🚀 Let's Connect!
 
 If you're interested in collaborating, discussing exciting tech ideas, or just connecting, feel free to reach out via [LinkedIn](https://linkedin.com/in/bhavikmehta1101) or check out my projects on [GitHub](https://github.com/bhavik168).
