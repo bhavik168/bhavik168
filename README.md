@@ -1,6 +1,6 @@
 # Hi, I'm Bhavik Mehta! 👋
 
-🚀 **Software Developer | Cybersecurity Enthusiast | AI & Blockchain Innovator**
+🚀 **Aspiring Software Developer | Backend Engineer | Open to Internships**
 
 📍 Seattle, USA  
 📧 mehtabhavik168@gmail.com  
