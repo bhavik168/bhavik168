@@ -1,114 +1,114 @@
-# Hi, I'm Bhavik Mehta! 👋
+<div align="center">
 
-🚀 **Aspiring Software Developer | Backend Engineer | Open to Internships**
+```
+██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗██╗  ██╗    ███╗   ███╗███████╗██╗  ██╗████████╗ █████╗ 
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║██║ ██╔╝    ████╗ ████║██╔════╝██║  ██║╚══██╔══╝██╔══██╗
+██████╔╝███████║███████║██║   ██║██║█████╔╝     ██╔████╔██║█████╗  ███████║   ██║   ███████║
+██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝██║██╔═██╗     ██║╚██╔╝██║██╔══╝  ██╔══██║   ██║   ██╔══██║
+██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║██║  ██╗    ██║ ╚═╝ ██║███████╗██║  ██║   ██║   ██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-📍 Seattle, USA  
-📧 mehtabhavik168@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/bhavikmehta1101) | [GitHub](https://github.com/bhavik168)  
+### Full Stack Developer · AI Systems · Seattle, WA
+
+[![Portfolio](https://img.shields.io/badge/bhavikmehta.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://bhavikmehta.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavikmehta1101)
+[![Email](https://img.shields.io/badge/mehtabhavik168@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mehtabhavik168@gmail.com)
+[![Open to Work](https://img.shields.io/badge/●_Open_to_Work-5DD62C?style=flat-square&logoColor=white)](#)
+
+</div>
+
+---
+
+## About
+
+MS Computer Science @ Seattle University (2024–2026). I've spent the last few years on the backend — distributed systems, API design, automated testing at Amdocs — and I'm increasingly building at the intersection of full-stack and AI. Right now that means LLM integrations, RAG pipelines, and production SaaS apps.
+
+I built [Habiwine](https://www.habiwine.com), a habit tracking platform with OpenAI-powered coaching, largely to see how far you could push an AI layer inside a real product without it feeling bolted on. Turns out: pretty far.
+
+Currently looking for internships and co-op roles where I can do meaningful engineering work. Not just tickets.
 
 ---
 
-## 🔥 About Me
+## Stack
 
-I am a **Master's student in Computer Science at Seattle University (2024-2026)** with a strong background in **software development, machine learning, blockchain, and cybersecurity**. I enjoy building scalable applications, securing digital ecosystems, and solving real-world problems using cutting-edge technologies.
-
----
-
-## 🎓 Education
-
-- **Seattle University** (2024 – 2026)  
-  _Master's in Computer Science_  
-  *Coursework: Artificial Intelligence, Distributed Systems, Machine Learning*
-
-- **Savitribai Phule Pune University** (2019 – 2022)  
-  _Bachelor of Engineering, Information Technology_
-
----
-## ⚙️ Tech Stack
-
-### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,fastapi,flask,tailwind,bootstrap" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js" />
 </p>
 
-### 🧠 Programming & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,postgresql,mysql,mongodb,sqlite" />
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,graphql" />
 </p>
 
-### ☁️ Cloud & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,heroku,supabase,vercel" />
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  &nbsp;<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
 
-### 🧩 DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,postman,vscode,idea,figma" />
+### Infrastructure & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,vercel,jenkins,github" />
 </p>
 
-### 🔐 Blockchain & AI/ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,tensorflow,pytorch,opencv" />
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,supabase" />
+  &nbsp;<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</p>
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,rust,go,solidity" />
 </p>
 
 ---
 
-## 💼 Experience
+## Selected Work
 
-### **Software Developer Intern** – Virtual Labs (Govt of India) (Aug 2021 - Dec 2021)
-- Developed dynamic backend systems using **Node.js**, **MongoDB**, and **MySQL-integrated microservices**, deployed on **AWS** for real-time data processing.  
-- Designed intuitive UIs with **React** and **TypeScript**, improving accessibility for 5,000+ students.  
-- Integrated **CI/CD pipelines** with **Docker** on **Microsoft Azure**, reducing deployment errors by 20%.  
-- Collaborated on debugging and production issue resolution, ensuring optimal system performance.  
-
-### **Functional Test Engineer** – Amdocs (Sept 2022 - July 2024)
-- Built automated testing frameworks using **Python** and **Java** to validate RESTful APIs, reducing manual testing effort by **70%** and improving software reliability.  
-- Optimized **PostgreSQL** schemas and integrated **FastAPI-based microservices**, applying algorithmic problem-solving and OOP principles to enhance scalability and backend performance.  
-- Collaborated in **Agile sprints** using **Git** and **IntelliJ**, debugging issues, reviewing pull requests, and improving system efficiency across distributed environments.  
-- Authored detailed **technical documentation** for testing workflows, validation scripts, and database integrations, ensuring traceability, maintainability, and continuous improvement.  
+| Project | What it does | Stack |
+|---|---|---|
+| [**Habiwine**](https://www.habiwine.com) | Habit tracking SaaS with AI coaching — OpenAI-powered natural language habit management | React, Node.js, PostgreSQL, OpenAI API, AWS |
+| **Fake News Detection** | Deep learning classifier, 96.8% accuracy across large-scale news datasets | Python, TensorFlow, NumPy |
+| **IoT × Ethereum** | Secure device communication using smart contracts and on-chain access control | Solidity, Python, MongoDB, AWS |
+| **Road Safety Predictor** | ML pipeline for accident risk scoring with real-time data via Kafka | Python, Scikit-learn, MySQL, Kafka |
 
 ---
 
-## 🛠 Projects
+## GitHub Stats
 
-### **Habiwine – Habit Tracking Application with AI-Powered Coaching** ([habiwine.com](https://www.habiwine.com))  
-_Mar 2025 – June 2025_  
-_Tech Stack: React.js | TypeScript | Node.js (Express) | Supabase (PostgreSQL) | OpenAI API | AWS LightSail_
+<div align="center">
 
-- Developed **Habiwine**, a full-stack habit tracking platform using **React**, **Node.js**, and **PostgreSQL**, designed for scalable performance and modular architecture.  
-- Integrated **AI-powered automation** through **OpenAI APIs**, enabling natural language interaction and intelligent habit management features.  
-- Deployed cloud infrastructure on **AWS** and **Supabase** for security, efficient data synchronization, and reliable microservices.  
-- Implemented **responsive UI/UX workflows**, accessibility optimizations, and structured debugging to ensure a smooth and consistent user experience.  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhavik168&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5DD62C&icon_color=5DD62C&text_color=c9d1d9&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik168&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5DD62C&text_color=c9d1d9&langs_count=8" />
 
-### **Fake News Detection using Deep Learning** (Jan 2025 - Mar 2025)
-- Designed and trained **machine learning models** in **Python** using **TensorFlow** and **scikit-learn**, focusing on modular code, algorithmic tuning, and inference optimization.  
-- Built automated **data pipelines** using **SQL** for preprocessing, validation, and feature extraction, improving performance and data accuracy.  
-- Implemented **evaluation metrics** and testing modules to monitor model accuracy and ensure reproducibility.  
-- Achieved **96.8% accuracy** through hyperparameter optimization and systematic performance evaluation.  
+</div>
 
-### **Securing Communication Between IoT Devices Using Ethereum Blockchain** (June 2021 - Aug 2022)
-- Designed **secure communication protocols** between IoT devices using **Ethereum smart contracts** and **Python APIs** to ensure data integrity and encryption.  
-- Deployed **blockchain-based services** on **AWS** and **Azure**, enhancing scalability, reliability, and transactional security across distributed networks.  
-- Integrated **MongoDB** for decentralized storage and optimized retrieval performance through effective query handling.  
-- Improved overall system stability through **automated validation scripts**, efficient error handling, and resource monitoring in multi-node environments.  
+<div align="center">
 
-### **Prediction of Road Safety using Deep Learning & Big Data** (June 2018 - June 2019)
-- Built predictive ML models in **Python & Scikit-learn**, improving risk assessment by 25%.  
-- Integrated **Kafka for real-time data processing** and optimized **MySQL** databases with caching.  
-- Enhanced model accuracy by reducing false positives by 20% for better road safety analytics.
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bhavik168&theme=github-dark-blue&hide_border=true&background=0d1117&ring=5DD62C&fire=5DD62C&currStreakLabel=5DD62C" />
+
+</div>
 
 ---
 
-## 🛠 Technical Skills
+## Currently
 
-- **Programming:** Java, Python, C/C++, JavaScript, SQL  
-- **Web Development:** React.js, Node.js, Flask, HTML, CSS  
-- **DevOps & Tools:** Docker, Git, Jenkins, CI/CD, Scrum, Jira  
-- **Databases:** SQL, MongoDB, PostgreSQL  
-- **Cloud:** AWS  
+- 📖 &nbsp; Deep in distributed systems and ML coursework at Seattle U
+- 🔬 &nbsp; Exploring RAG architectures and agentic workflows
+- 🛠️ &nbsp; Building v2 of my portfolio — neo-brutalist design, Next.js 16, heavy animations
+- 👀 &nbsp; Open to internships, research roles, and interesting side projects
 
 ---
 
-## 🚀 Let's Connect!
+<div align="center">
 
-If you're interested in collaborating, discussing exciting tech ideas, or just connecting, feel free to reach out via [LinkedIn](https://linkedin.com/in/bhavikmehta1101) or check out my projects on [GitHub](https://github.com/bhavik168).
+*"Talk is cheap. Show me the code."* — Linus Torvalds
+
+</div>
