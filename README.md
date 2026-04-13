@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗██╗  ██╗    ███╗   ███╗███████╗██╗  ██╗████████╗ █████╗
-██╔══██╗██║  ██║██╔══██╗██║   ██║██║██║ ██╔╝    ████╗ ████║██╔════╝██║  ██║╚══██╔══╝██╔══██╗
-██████╔╝███████║███████║██║   ██║██║█████╔╝     ██╔████╔██║█████╗  ███████║   ██║   ███████║
-██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝██║██╔═██╗     ██║╚██╔╝██║██╔══╝  ██╔══██║   ██║   ██╔══██║
-██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║██║  ██╗    ██║ ╚═╝ ██║███████╗██║  ██║   ██║   ██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+# Bhavik Mehta
 
 ### Full Stack Developer · AI Systems · Seattle, WA
 
@@ -33,19 +26,16 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 ## Stack
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js" />
 </p>
 
 ### Backend & APIs
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,graphql" />
 </p>
 
 ### AI / ML
-
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
   &nbsp;<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -54,13 +44,11 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 </p>
 
 ### Infrastructure & DevOps
-
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,vercel,jenkins,github" />
 </p>
 
 ### Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,supabase" />
   &nbsp;<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
@@ -68,7 +56,6 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 </p>
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,cpp,rust,go,solidity" />
 </p>
@@ -77,19 +64,17 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 
 ## Selected Work
 
-### [bhavikmehta.dev](https://bhavikmehta.dev?utm_source=github_readme) — Personal Portfolio
-
+### [bhavikmehta.dev](https://bhavikmehta.dev?utm_source=github_readme) — Personal Portfolio v2
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Framer Motion` `GSAP` `PostHog` `Vercel`
 
 - **I designed it, Claude Code built it** — every architectural call was mine: App Router structure, per-section color system, component hierarchy, animation strategy. Claude Code handled implementation via a custom multi-agent setup (separate agents for animations, UI, blog, SEO, performance), each scoped to skill files I wrote to encode my own design rules
-- **MDX blog pipeline that gets out of the way** — I wanted writing to feel like `git push`, not a CMS workflow. Posts live in `/content/blog/`, frontmatter handles metadata, Vercel CI deploys on push. gray-matter parses it, draft flags keep things clean, and the whole thing took under an a minute to wire up
-- **PostHog wired in as a real analytics layer** — not just page views. I instrumented scroll depth, section engagement, and click patterns to understand which parts of the site actually hold attention. Same setup I'd use in a production SaaS — because treating your portfolio like a toy shows
 - **Neo-brutalist design system, designed from scratch** — I made the call to ditch component libraries entirely: sharp geometric edges, fixed per-section palettes, Syne/Space Grotesk/DM Sans type hierarchy, GSAP ScrollTrigger synced with Lenis smooth scroll. Every visual decision was deliberate, every pixel was intentional
+- **PostHog wired in as a real analytics layer** — not just page views. I instrumented scroll depth, section engagement, and click patterns to understand which parts of the site actually hold attention. Same setup I'd use in a production SaaS — because treating your portfolio like a toy shows
+- **MDX blog pipeline that gets out of the way** — I wanted writing to feel like `git push`, not a CMS workflow. Posts live in `/content/blog/`, frontmatter handles metadata, Vercel CI deploys on push. gray-matter parses it, draft flags keep things clean, and the whole thing took under an hour to wire up
 
 ---
 
 ### [Habiwine](https://www.habiwine.com) — Habit Tracking SaaS with AI Coaching
-
 `React` `Node.js (Express)` `PostgreSQL` `OpenAI API` `AWS LightSail` `Supabase` `Cloudflare CDN`
 
 - Architected RESTful backend with modular service layers, cutting average API response latency by 25% through query optimization and structured middleware
@@ -100,7 +85,6 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 ---
 
 ### Fake News Detection — Deep Learning Classifier
-
 `Python` `TensorFlow` `NumPy` `Scikit-learn`
 
 - Designed end-to-end NLP pipeline: preprocessing, tokenization, model training, and evaluation across large-scale news datasets
@@ -110,7 +94,6 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 ---
 
 ### Securing IoT Communication via Ethereum Blockchain
-
 `Solidity` `Python` `C++` `MongoDB` `AWS` `Azure`
 
 - Developed smart contract architecture with on-chain access control, reducing unauthorized interaction attempts by 40% in simulated attack scenarios
@@ -120,7 +103,6 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 ---
 
 ### Road Safety Prediction — ML + Real-Time Data Pipeline
-
 `Python` `Scikit-learn` `MySQL` `Kafka`
 
 - Built predictive ML models for accident risk scoring, improving assessment accuracy by 25% over baseline
@@ -158,6 +140,6 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 
 <div align="center">
 
-_"Talk is cheap. Show me the code."_ — Linus Torvalds
+*"Talk is cheap. Show me the code."* — Linus Torvalds
 
 </div>
