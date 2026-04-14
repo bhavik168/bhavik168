@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bhavik Mehta
+<img src="./name-header.svg" alt="Bhavik Mehta" width="100%" />
 
 ### Full Stack Developer · AI Systems · Seattle, WA
 
