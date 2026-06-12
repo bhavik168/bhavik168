@@ -16,11 +16,11 @@
 
 ## About
 
-MS Computer Science @ Seattle University (2024–2026). I've spent the last few years on the backend — distributed systems, API design, automated testing at Amdocs — and I'm increasingly building at the intersection of full-stack and AI. Right now that means LLM integrations, RAG pipelines, and production SaaS apps.
+MS CS @ Seattle University. Two years at Amdocs debugging distributed backend systems before deciding I'd rather be building them from scratch.
 
-I built [Habiwine](https://www.habiwine.com), a habit tracking platform with OpenAI-powered coaching, largely to see how far you could push an AI layer inside a real product without it feeling bolted on. Turns out: pretty far.
+Since then: shipped [Habiwine](https://www.habiwine.com) solo to production, built [peekwise.ai](https://peekwise.ai) — a competitive intelligence SaaS that processes 2,000+ reviews a night at near-zero API cost — and won **1st place at AWSHacks 2026** with [ARIA](https://github.com/bhavik168/ARIA), a six-agent Amazon Bedrock system that gives 911 dispatchers real-time decision support in under 15 seconds. Also merged a fix into [Bruno](https://github.com/usebruno/bruno/pull/8245) (22k+ ⭐) that resolved two long-standing issues in one line.
 
-Currently looking for internships and co-op roles where I can do meaningful engineering work. Not just tickets.
+I care about the gap between code that runs and code that ships. Looking for full-stack or backend roles where that distinction actually matters.
 
 ---
 
