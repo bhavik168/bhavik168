@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/bhavikmehta.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://bhavikmehta.dev?utm_source=github_readme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavikmehta1101)
 [![Email](https://img.shields.io/badge/mehtabhavik168@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mehtabhavik168@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-5DD62C?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/bhavik168/bhavik168/raw/main/Bhavik_Mehta_Resume_2026.pdf)
 [![Open to Work](https://img.shields.io/badge/●_Open_to_Work-5DD62C?style=flat-square&logoColor=white)](#)
 
 </div>
@@ -64,6 +65,26 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 
 ## Selected Work
 
+### [ARIA](https://github.com/bhavik168/ARIA) — Autonomous Response Intelligent Assistant · 🏆 1st Place AWSHacks 2026
+`Amazon Bedrock` `Claude Haiku 3.5` `Claude Sonnet 4` `AWS Lambda` `Amazon Transcribe` `DynamoDB` `Titan Embeddings v2`
+
+- Won 1st place at AWSHacks 2026 Bedrock Track — built a real-time 911 dispatch co-pilot that surfaces one actionable recommendation in under 15 seconds via a six-agent Amazon Bedrock pipeline, giving solo dispatchers a thinking partner during live calls
+- Structured the reasoning layer so Claude Haiku 3.5 resolves location ambiguity mid-stream while Claude Sonnet 4 reconciles all specialist outputs into a single progressive recommendation card, keeping dispatchers focused on judgment instead of switching between tools
+- Built an AWS Lambda stream processor with provisioned concurrency that fires Navigation, Medical, and Hazmat agents the moment Amazon Transcribe detects domain keywords, cutting coordination overhead that splits dispatcher attention mid-call
+- Grounded every agent output in FEMA, AHA, and MPDS protocols via Amazon Bedrock Knowledge Base with Titan Embeddings v2; Bedrock Guardrails block unverified recommendations and log every override to DynamoDB
+
+---
+
+### [peekwise.ai](https://peekwise.ai) — Competitive Intelligence SaaS
+`Next.js 14` `FastAPI` `Railway` `BullMQ` `Redis` `Neon PostgreSQL` `Groq` `Apify` `BrightData`
+
+- Built a competitive intelligence SaaS as a monorepo with BullMQ as the sole async handoff between ingestion, AI enrichment, and orchestration layers — each cron service can scale or fail independently, cutting inter-service coupling to zero
+- Sequenced Groq free-tier LLMs for nightly batch review analysis and a frontier model for one briefing call per competitor, sizing batches and sleep intervals around free-tier TPM limits to process ~2,075 reviews per day at zero API cost
+- Separated hot analysis state in Redis hashes/sorted sets with 6-month TTLs from static config in Neon PostgreSQL, removing real-time AI calls from the request path and keeping every dashboard read sub-millisecond regardless of competitor count
+- Built a 3-layer deduplication and freshness-cutoff pipeline over Google and Yelp review data via Apify and BrightData, cutting redundant API calls across nightly runs and keeping ingestion costs near zero at scale
+
+---
+
 ### [bhavikmehta.dev](https://bhavikmehta.dev?utm_source=github_readme) — Personal Portfolio v2
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Framer Motion` `GSAP` `PostHog` `Vercel`
 
@@ -108,6 +129,16 @@ Currently looking for internships and co-op roles where I can do meaningful engi
 - Built predictive ML models for accident risk scoring, improving assessment accuracy by 25% over baseline
 - Integrated Kafka for real-time data ingestion and processing across the pipeline
 - Reduced false positives by 20% through iterative model tuning and caching-optimized MySQL queries
+
+---
+
+## Open Source Contributions
+
+### [usebruno/bruno](https://github.com/usebruno/bruno) — API Client (22k+ ⭐)
+
+**[fix: show unsaved changes prompt when closing tab with Cmd+W / Ctrl+W](https://github.com/usebruno/bruno/pull/8245)** · Merged
+
+Resolved two open issues ([#8244](https://github.com/usebruno/bruno/issues/8244), [#3264](https://github.com/usebruno/bruno/issues/3264)) — pressing `Cmd+W` / `Ctrl+W` on a modified HTTP request tab closed it immediately without triggering the unsaved-changes prompt. The `closeTab` handler's dirty-state check was missing the `'http-request'` type; adding it gave HTTP tabs the same protection all other request types already had.
 
 ---
 
