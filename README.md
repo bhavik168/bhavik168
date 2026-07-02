@@ -16,7 +16,7 @@
 
 ## About
 
-MS CS @ Seattle University. Two years at Amdocs debugging distributed backend systems before deciding I'd rather be building them from scratch.
+MS CS @ Seattle University. Two years at Amdocs as Software Engineer.
 
 Since then: shipped [Habiwine](https://www.habiwine.com) solo to production, built [peekwise.ai](https://peekwise.ai) — a competitive intelligence SaaS that processes 2,000+ reviews a night at near-zero API cost — and won **1st place at AWSHacks 2026** with [ARIA](https://github.com/bhavik168/ARIA), a six-agent Amazon Bedrock system that gives 911 dispatchers real-time decision support in under 15 seconds. Also merged a fix into [Bruno](https://github.com/usebruno/bruno/pull/8245) (22k+ ⭐) that resolved two long-standing issues in one line.
 
